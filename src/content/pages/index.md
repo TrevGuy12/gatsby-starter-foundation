@@ -2,11 +2,10 @@
 template: index-page
 slug: /
 title: Trevor Ortell
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+tagline: "Mechanical Engineer Student   "
+featuredImage: /assets/image0-1-.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Currently a high school student in Fort Collins Colorado. My interests revolve around Mechanical engineering three dimensional product design, virtual and augmented reality
