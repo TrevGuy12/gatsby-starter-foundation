@@ -3,7 +3,6 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
+Open to new opportunities in the Fort Collins area, as well as globally remote.
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
-
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Feel free to fill out the form below and I will respond at my earliest convenience
